@@ -1,0 +1,30 @@
+body{
+             font-family: arial;
+            background: #001e4a;
+            color: white;
+            text-align: center;
+        }
+        .welcome{
+            color: #56f921;
+            font-size: 27px;
+            font-weight: 
+        }
+        .top span{
+            color: yellow;
+        }
+        .info{
+            height:100%;
+            width: 100%;
+            border: 2px solid red;
+        }
+        b{
+            color: red;
+            font-size: 20px
+        }
+        img{height:100%;
+            width: 50%;
+            
+            
+            
+      
+        
